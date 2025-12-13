@@ -36,7 +36,7 @@ A Power BI dashboard that predicts retail store demand using sales patterns.
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/balakumar-s-638753298
-- 📧 Email: senthilbala@2018@gmailo.com
+- 📧 Email: senthilbala2018@gmailo.com
 
 ---
 
